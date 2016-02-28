@@ -1,2 +1,3 @@
-# how-to-react
-React tutorial and starter kit project
+# React tutorial and starter kit project
+
+Check the tutorial: vasconita.github.io/how-to-react
